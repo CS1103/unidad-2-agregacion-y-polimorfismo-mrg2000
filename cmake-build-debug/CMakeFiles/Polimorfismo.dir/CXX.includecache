@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Biblioteca.h
+Definiciones.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Definiciones.h
+Volumen.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Volumen.h
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Definiciones.h
+string
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Libro.h
+Volumen.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Volumen.h
+Definiciones.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Definiciones.h
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Revista.h
+Volumen.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Volumen.h
+Definiciones.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Definiciones.h
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Volumen.h
+Definiciones.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Definiciones.h
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/main.cpp
+iostream
+-
+Biblioteca.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Biblioteca.h
+Volumen.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Volumen.h
+Libro.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Libro.h
+Revista.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Polimorfismo/Revista.h
+

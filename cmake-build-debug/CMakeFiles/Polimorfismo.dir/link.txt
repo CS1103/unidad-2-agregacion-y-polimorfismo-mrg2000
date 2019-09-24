@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Polimorfismo.dir/main.cpp.o CMakeFiles/Polimorfismo.dir/Biblioteca.cpp.o CMakeFiles/Polimorfismo.dir/Volumen.cpp.o CMakeFiles/Polimorfismo.dir/Libro.cpp.o CMakeFiles/Polimorfismo.dir/Revista.cpp.o  -o Polimorfismo 
